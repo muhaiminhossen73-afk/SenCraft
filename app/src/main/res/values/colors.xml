@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sen_background">#050B08</color>
+    <color name="sen_card_surface">#0E1A14</color>
+    <color name="sen_raised_surface">#123A2A</color>
+    <color name="sen_accent_emerald">#2E7D5B</color>
+    <color name="sen_bright_emerald">#3FB984</color>
+    <color name="sen_mint">#9BE3C1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
